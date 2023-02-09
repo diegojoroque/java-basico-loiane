@@ -9,7 +9,7 @@ link da correção do exercício: https://www.youtube.com/watch?v=Ebvl0BlnD-U
 */
 
 class Argumentos2 {
-    public static void main (String [] args) {
+    public static void Main (String[] args) {
 
         System.out.println("Olá Mundo! " + args[0]);
     }

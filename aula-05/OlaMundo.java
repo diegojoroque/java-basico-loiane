@@ -9,7 +9,7 @@ link da correção do exercício: https://youtu.be/3rZNefsMmKs
 */
 
 class OlaMundo {
-    public static void main (String [] args) {
+    public static void Main (String[] args) {
         System.out.println("Ola Mundo!");
     }
 }

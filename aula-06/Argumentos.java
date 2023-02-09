@@ -1,5 +1,5 @@
 class Argumentos {
-    public static void main (String[] args){
+    public static void Main (String[] args){
 
         System.out.println("Você digitou " + args[0]);
     }
